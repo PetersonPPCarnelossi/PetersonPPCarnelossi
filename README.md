@@ -10,8 +10,8 @@
  - Meu nome é Peterson e atualmente estou em transição de carreira para QA após 7 anos na área técnica.  
  - Fascinado por técnologia, conhecimento e mundo nerd!   
  - Estudante de ADS
- - Cursando Quality Assurance
- - Conhecimentos em metodologia ágil 
+ - Cursando Quality Assurance (Selenium, Appium, K6)
+ - Conhecimentos em metodologia ágil
  
 Em desenvolvimento <img src = "loading2.gif" width = "35px"  align = "center">
 
