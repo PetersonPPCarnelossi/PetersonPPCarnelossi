@@ -8,7 +8,7 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
  - Meu nome é Peterson e atualmente estou em transição de carreira para QA após 7 anos na área técnica.  
- - Fascinado por técnologia, conhecimento e mundo nerd!   
+ - Fascinado por tecnologia, conhecimento e mundo nerd!   
  - Estudante de ADS
  - Cursando Quality Assurance (Selenium, Appium, K6)
  - Conhecimentos em metodologia ágil
