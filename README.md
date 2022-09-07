@@ -19,7 +19,7 @@ Em desenvolvimento <img src = "loading2.gif" width = "35px"  align = "center">
                  
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonPCarnelossi&layout=compact&langs_count=16&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetersonPPCarnelossi&layout=compact&langs_count=16&theme=github_dark)
 
 
 
