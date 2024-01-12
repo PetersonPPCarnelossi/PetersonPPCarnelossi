@@ -9,8 +9,8 @@
 
  - Meu nome é Peterson e atualmente estou em transição de carreira para a área de TI após 7 anos na área técnica.  
  - Fascinado por tecnologia, conhecimento e mundo nerd!   
- - Cursando Quality Assurance (Selenium, Appium, K6)
- - Conhecimentos em metodologia ágil
+ - Cursando Quality Assurance e C#.
+ - Conhecimentos em metodologia ágil.
  
 Em desenvolvimento <img src = "loading2.gif" width = "35px"  align = "center">
 
