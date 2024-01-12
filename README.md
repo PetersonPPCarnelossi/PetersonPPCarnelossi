@@ -7,7 +7,7 @@
 
 <img src = "banner.gif" width = "325px" align = "right">
 
- - Meu nome é Peterson e atualmente estou em transição de carreira para a área de TI após 7 anos na área técnica.  
+ - Meu nome é Peterson e atualmente trabalho em uma gestora, desenvolvendo soluções em python, automação web, interfaces e web scraping.  
  - Fascinado por tecnologia, conhecimento e mundo nerd!   
  - Cursando Quality Assurance e C#.
  - Conhecimentos em metodologia ágil.
